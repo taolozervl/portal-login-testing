@@ -1,2 +1,2 @@
 # portal-login-testing
-Manual testing project for university portal login
+Manual testing project for university portal login.
